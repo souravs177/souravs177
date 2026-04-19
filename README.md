@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring Data Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=PySpark+%7C+SQL+%7C+Airflow+%7C+Delta+Lake+%7C+Python;Building+data+pipelines+and+analytics-ready+systems;Focused+on+real-world+data+engineering+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=PySpark+%7C+SQL+%7C+Airflow+%7C+Delta+Lake;Python+%7C+Databricks+%7C+Snowflake;AWS+%7C+Azure+%7C+Data+Engineering" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=souravs177&label=Profile%20views&color=0e75b6&style=flat" alt="souravs177" />
@@ -13,7 +14,7 @@
 
 ## About Me
 
-- I build data engineering projects with Python, PySpark, SQL, Airflow,Databricks,Snowflake,AWS,Azure and Delta Lake.
+- I build data engineering projects with Python, PySpark, SQL, Airflow, Databricks, Snowflake, AWS, Azure and Delta Lake.
 - I enjoy turning raw data into clean, analytics-ready pipelines.
 - I am currently focused on ETL design, Spark transformations, and workflow orchestration.
 - I am growing toward production-style data engineering and cloud-based data platforms.
