@@ -13,7 +13,7 @@
 
 ## About Me
 
-- I build data engineering projects with Python, PySpark, SQL, Airflow, and Delta Lake.
+- I build data engineering projects with Python, PySpark, SQL, Airflow,Databricks,Snowflake,AWS,Azure and Delta Lake.
 - I enjoy turning raw data into clean, analytics-ready pipelines.
 - I am currently focused on ETL design, Spark transformations, and workflow orchestration.
 - I am growing toward production-style data engineering and cloud-based data platforms.
